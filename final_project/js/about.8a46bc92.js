@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"about"},[t("h3",[e._v("This is a simple flash card App designed by Vincent Lin")])])}],i=t("2877"),c={},l=Object(i["a"])(c,s,a,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=about.8a46bc92.js.map
